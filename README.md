@@ -1,2 +1,2 @@
-# kyrgyzstan-archeology-digital-archive
+# kyrgyzstan-archaelogy-digital-archive
 Master’s thesis
